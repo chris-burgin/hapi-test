@@ -1,0 +1,17 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chrisburgin/eslint-config": "^1.1.0",
+    "@chrisburgin/prettier-config": "^1.0.0",
+    "graphql": "^0.13.1",
+    "hapi": "^17.2.1"
+  }
+}
